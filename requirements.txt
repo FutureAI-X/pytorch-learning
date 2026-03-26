@@ -1,0 +1,4 @@
+torch==2.8.0+cu128
+numpy==2.4.0
+ipykernel==7.1.0
+matplotlib==3.10.7
